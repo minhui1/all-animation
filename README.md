@@ -118,4 +118,3 @@ Temos várias classe no lugar da class journal, vejamos quais são:
  <li>bomba</li>
 </ul>
 
-Email para contato: cloves13@hotmail.com
